@@ -230,7 +230,7 @@
     "which-module": "^2.0.0",
     "which-pm-runs": "^1.0.0",
     "wide-align": "^1.1.3",
-    "workerpool": "^6.0.4",
+    "workerpool": "^6.5.1",
     "wrap-ansi": "^7.0.0",
     "wrappy": "^1.0.2",
     "ws": "^7.4.2",
